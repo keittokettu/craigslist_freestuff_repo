@@ -7,8 +7,9 @@ since last time, I mostly expanded the scope of my dataset, and now am proud to 
 *map of used locations and sample sizes for each: akron, buffalo, cleveland, columbus, dayton, erie, morgantown, pittsburgh, scranton, state college, toledo, wheeling, youngstown. I was surprised to learn that the pittsburgh craiglist held the most free stuff– I feel like I'm blessed to live in the middle of this arbitrary universe I've defined.*
 
 these come from my LoRA made w/ my previous only-pittsburgh version of this dataset, but I think these are representative of what emerges from a model trained on these images:
-![ComfyUI_temp_qlsfd_00238_](https://github.com/user-attachments/assets/efbde73f-2343-4720-b53d-87564ca3d0e6)
 
+![ComfyUI_temp_qlsfd_00238_](https://github.com/user-attachments/assets/efbde73f-2343-4720-b53d-87564ca3d0e6)
+*suburban landscapes, the dreary grey of the ongoing winter*
 
 ![ComfyUI_temp_qlsfd_00230_](https://github.com/user-attachments/assets/f9ba9f82-5fdb-46d4-bf2f-619734a9a138)
 **
