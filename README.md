@@ -28,9 +28,10 @@ these come from my LoRA made w/ my previous only-pittsburgh version of this data
 
 *working with this dataset, you learn of its unique iconography, such as the FREE DIRT*
 
-*
 I have included the combined regional folders, along with the python script, if you feel like doing your own work with the data/data-finding tool.
 
 some things I found were:
-* 
+* a strong sense of place gets captured by these posts, things like: the way the sky or light looks at multiple times of day, the color of the grass at this time of year, any trees present, styles of homes and architecture tied to the region.
+* this data is very temporally fickle. posts get very quickly posted and deleted, as is the nature of an active marketplace, and nothing seems to ever stay unsold/untaken forever. each scrape is a stoppage of time, and sometimes even in the minutes between gathering post links and running the python script, I find that users have deleted post listings.
+* along those lines, the current season of winter gets echoed in the data; sometimes some too-large items need to be photographed outside, and the indicators of winter get captured within the dataset. I hypothesize that this leads a related LoRA to generate dreadful and grey outside environments, and I wonder what a summertime scrape of the same cities might yield.
 
