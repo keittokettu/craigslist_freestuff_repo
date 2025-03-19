@@ -49,9 +49,10 @@ and to bring back attention to the real meat of this project, here's some listin
 <img width="1202" alt="Screen Shot 2025-03-18 at 20 39 10" src="https://github.com/user-attachments/assets/ba68b10d-13a9-4e39-8c65-21450a52efa1" />
 <img width="1201" alt="Screen Shot 2025-03-18 at 20 36 42" src="https://github.com/user-attachments/assets/384010f6-4d5c-4758-a7e6-f1f4f7a1d446" />
 
-I'm currently working to get some up-to-date mosaics but here are my prev. ones...
+(pyramid, UMAP)
+![download (7)](https://github.com/user-attachments/assets/aa433d10-b837-4d21-9f73-61c00c68857b)
+![final_mosaic](https://github.com/user-attachments/assets/e36b65d7-13cf-4719-be19-b7b9451a51d2)
 
-![final_mosaic_pyr-uma](https://github.com/user-attachments/assets/6d4dd0f2-0edf-42df-afa7-9a02da9f2579)
-![final_mosaic_cnn-uma](https://github.com/user-attachments/assets/a01760f2-af20-4a8e-a5c5-ca6b8abd29b8)
-![2d_embedding_pyr-uma](https://github.com/user-attachments/assets/99b8699f-d102-41d9-b36d-85428d338a93)
+
+
 
