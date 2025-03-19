@@ -35,3 +35,17 @@ some things I found were:
 * this data is very temporally fickle. posts get very quickly posted and deleted, as is the nature of an active marketplace, and nothing seems to ever stay unsold/untaken forever. each scrape is a stoppage of time, and sometimes even in the minutes between gathering post links and running the python script, I find that users have deleted post listings.
 * along those lines, the current season of winter gets echoed in the data; sometimes some too-large items need to be photographed outside, and the indicators of winter get captured within the dataset. I hypothesize that this leads a related LoRA to generate dreadful and grey outside environments, and I wonder what a summertime scrape of the same cities might yield.
 
+and to bring back attention to the real meat of this project, here's some listings I liked for various reasons:
+
+<img width="1203" alt="Screen Shot 2025-03-18 at 20 46 03" src="https://github.com/user-attachments/assets/d5e1f8ec-553d-46ef-9d4b-c47fbb3e3480" />
+<img width="1203" alt="Screen Shot 2025-03-18 at 20 45 57" src="https://github.com/user-attachments/assets/794012a6-96bd-475b-8b11-49c26f2e57d4" />
+<img width="1204" alt="Screen Shot 2025-03-18 at 20 44 18" src="https://github.com/user-attachments/assets/bfb6fdf7-b9ed-437e-a0e9-9a44b51f323a" />
+<img width="1201" alt="Screen Shot 2025-03-18 at 20 43 24" src="https://github.com/user-attachments/assets/70d1c550-b0c9-440e-a26b-b4c5fec2ec05" />
+
+<img width="1202" alt="Screen Shot 2025-03-18 at 20 41 42" src="https://github.com/user-attachments/assets/9405061f-780c-4879-bf4a-8300f1a8f5fd" />
+<img width="671" alt="Screen Shot 2025-03-18 at 20 40 23" src="https://github.com/user-attachments/assets/0aaec1b6-2c26-4c58-a06b-27fce1e814cd" />
+<img width="1200" alt="Screen Shot 2025-03-18 at 20 39 44" src="https://github.com/user-attachments/assets/baa708f1-cb5d-4c66-b95f-54fe8ec46c24" />
+<img width="1200" alt="Screen Shot 2025-03-18 at 20 39 36" src="https://github.com/user-attachments/assets/10397ec7-c309-4977-a6d5-3233cd59c611" />
+<img width="1202" alt="Screen Shot 2025-03-18 at 20 39 10" src="https://github.com/user-attachments/assets/ba68b10d-13a9-4e39-8c65-21450a52efa1" />
+<img width="1201" alt="Screen Shot 2025-03-18 at 20 36 42" src="https://github.com/user-attachments/assets/384010f6-4d5c-4758-a7e6-f1f4f7a1d446" />
+
