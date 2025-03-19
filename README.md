@@ -14,17 +14,17 @@ these come from my LoRA made w/ my previous only-pittsburgh version of this data
 
 ![ComfyUI_temp_qlsfd_00230_](https://github.com/user-attachments/assets/f9ba9f82-5fdb-46d4-bf2f-619734a9a138)
 
-*1*
+*some text-containing images get absorbed by the model. also, people generated are often (1) white and (2) older *
 
 ![ComfyUI_temp_qlsfd_00170_](https://github.com/user-attachments/assets/4c2f32db-612e-4832-899d-ea96c60d214b)
 
-*2*
+*crude scribbles of red arrows and circles made by craiglist posters get ingested into the model's visual language*
 
 ![ComfyUI_temp_qlsfd_00060_](https://github.com/user-attachments/assets/841f40f8-07e8-4924-8566-ad2543e06755)
 
-*3*
+*generated homes, or living room environments, often have a beige-cream carpeted floor*
 
 ![ComfyUI_temp_qlsfd_00003_](https://github.com/user-attachments/assets/0a2ed843-779b-41d3-9569-0590ee79b9fb)
 
-*4*
+*working with this dataset, you learn of its unique iconography, such as # FREE DIRT *
 
