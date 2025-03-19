@@ -50,8 +50,15 @@ and to bring back attention to the real meat of this project, here's some listin
 <img width="1201" alt="Screen Shot 2025-03-18 at 20 36 42" src="https://github.com/user-attachments/assets/384010f6-4d5c-4758-a7e6-f1f4f7a1d446" />
 
 (pyramid, UMAP)
+
 ![download (7)](https://github.com/user-attachments/assets/aa433d10-b837-4d21-9f73-61c00c68857b)
 ![final_mosaic](https://github.com/user-attachments/assets/e36b65d7-13cf-4719-be19-b7b9451a51d2)
+
+(cnn, TSNE)
+
+![final_mosaic (1)](https://github.com/user-attachments/assets/20e84641-c813-4bdc-bbf8-eac529ec7866)
+![download (8)](https://github.com/user-attachments/assets/d0ee6aa4-fe5f-45c5-89bc-d50d10e4f231)
+
 
 
 
