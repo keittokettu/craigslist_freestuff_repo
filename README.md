@@ -28,7 +28,7 @@ these come from my LoRA made w/ my previous only-pittsburgh version of this data
 
 *working with this dataset, you learn of its unique iconography, such as the FREE DIRT*
 
-
+*
 I have included the combined regional folders, along with the python script, if you feel like doing your own work with the data/data-finding tool.
 
 some things I found were:
