@@ -9,17 +9,22 @@ since last time, I mostly expanded the scope of my dataset, and now am proud to 
 these come from my LoRA made w/ my previous only-pittsburgh version of this dataset, but I think these are representative of what emerges from a model trained on these images:
 
 ![ComfyUI_temp_qlsfd_00238_](https://github.com/user-attachments/assets/efbde73f-2343-4720-b53d-87564ca3d0e6)
-*suburban landscapes, the dreary grey of the ongoing winter*
+
+*suburban landscapes, the dreary grey of the winte season*
 
 ![ComfyUI_temp_qlsfd_00230_](https://github.com/user-attachments/assets/f9ba9f82-5fdb-46d4-bf2f-619734a9a138)
-**
+
+*1*
 
 ![ComfyUI_temp_qlsfd_00170_](https://github.com/user-attachments/assets/4c2f32db-612e-4832-899d-ea96c60d214b)
-**
+
+*2*
 
 ![ComfyUI_temp_qlsfd_00060_](https://github.com/user-attachments/assets/841f40f8-07e8-4924-8566-ad2543e06755)
-**
+
+*3*
 
 ![ComfyUI_temp_qlsfd_00003_](https://github.com/user-attachments/assets/0a2ed843-779b-41d3-9569-0590ee79b9fb)
-**
+
+*4*
 
